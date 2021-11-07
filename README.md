@@ -172,8 +172,19 @@ docker push ayoubberd/abalone-age-prediction:latest
 
 # Heroku
 
+The web app will show like this ( I need to upload the model which is about 100Mo)
+![Abalone Age Prediciton](https://github.com/ayoub-berdeddouch/midterm-project-mlzoomcamp/blob/main/screenshot.png)
 
 
+
+
+# Errors after Deadline of midterm
+
+I had to upload the model which was about 100Mo so after that the repo got just the model and I couldn't revert it.
+
+![Error just for proof](https://github.com/ayoub-berdeddouch/midterm-project-mlzoomcamp/blob/main/git_err_model.png)
+
+![Error just for proof](https://github.com/ayoub-berdeddouch/midterm-project-mlzoomcamp/blob/main/git_error.png)
 
 
 
