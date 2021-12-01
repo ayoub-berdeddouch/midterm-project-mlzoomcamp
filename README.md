@@ -173,6 +173,7 @@ docker push ayoubberd/abalone-age-prediction:latest
 # Heroku
 
 The web app will show like this ( I need to upload the model which is about 100Mo)
+
 ![Abalone Age Prediciton](https://github.com/ayoub-berdeddouch/midterm-project-mlzoomcamp/blob/main/screenshot.png)
 
 
